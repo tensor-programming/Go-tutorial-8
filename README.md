@@ -1,4 +1,4 @@
-# Go Tutorial Part 7
+# Go Tutorial Part 8
 # Adding an SQLite database and user authentication. 
 
 ### Implementing a SQL database to back up the User module and User authentication. 
